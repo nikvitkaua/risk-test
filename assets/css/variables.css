@@ -1,0 +1,9 @@
+:root {
+    --white: #FFFFFF;
+    --yellow: #EAAE16;
+    --black: #000000;
+    --gray: #969BA9;
+    --violet: #1C1C33;
+    --light-violet: #2A2A43;
+    --transition: .3s;
+}
